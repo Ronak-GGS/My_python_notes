@@ -1,0 +1,11 @@
+{
+            "name": "Ronak",
+            "Place": "Kharkhoda",
+            "Age": 21,
+            "hobbies": [
+                        "chess",
+                        "Programming"
+            ],
+            "Male": true,
+            "bad habit": null
+}
